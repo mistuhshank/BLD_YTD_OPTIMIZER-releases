@@ -1,5 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "url": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/latest",
-  "notes": "First installer release."
+  "notes": "Much faster start (the custom texture library loads in the background) and one-click updates.",
+  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.3.0/BLD_YTD_OPTIMIZER-1.3.0-x64.msi",
+  "sha256": "880943dafa530de2adbdb0e4d3103a8a492389b61b25c805dd03a8508bcc15ac"
 }
