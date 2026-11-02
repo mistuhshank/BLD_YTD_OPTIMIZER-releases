@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "url": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/latest",
-  "notes": "Much faster start (the custom texture library loads in the background) and one-click updates.",
-  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.3.0/BLD_YTD_OPTIMIZER-1.3.0-x64.msi",
-  "sha256": "880943dafa530de2adbdb0e4d3103a8a492389b61b25c805dd03a8508bcc15ac"
+  "notes": "Fix: slimming keeps every mip level, so non power-of-two textures and tiny mip levels are copied byte for byte.",
+  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.3.1/BLD_YTD_OPTIMIZER-1.3.1-x64.msi",
+  "sha256": "ce77275c23c528e6a0192853ff771655f5d29784473b2b7ec58979e3dfb3c0f2"
 }
