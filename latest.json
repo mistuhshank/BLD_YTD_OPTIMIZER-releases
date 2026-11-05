@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
+  "version": "1.4.0",
   "url": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/latest",
-  "notes": "Fix: slimming keeps every mip level, so non power-of-two textures and tiny mip levels are copied byte for byte.",
-  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.3.1/BLD_YTD_OPTIMIZER-1.3.1-x64.msi",
-  "sha256": "ce77275c23c528e6a0192853ff771655f5d29784473b2b7ec58979e3dfb3c0f2"
+  "notes": "Pack linker: link a whole vehicle pack at once, side-by-side texture preview (car vs repo), drag to tick, status and progress bars, stable car list.",
+  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.4.0/BLD_YTD_OPTIMIZER-1.4.0-x64.msi",
+  "sha256": "f5ba60fff593ed9c9558cdc5483c18ca24269a47441dedc6bb91a47ad4d02901"
 }
