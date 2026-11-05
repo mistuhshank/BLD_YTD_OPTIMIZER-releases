@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "url": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/latest",
-  "notes": "Pack linker: link a whole vehicle pack at once, side-by-side texture preview (car vs repo), drag to tick, status and progress bars, stable car list.",
-  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.4.0/BLD_YTD_OPTIMIZER-1.4.0-x64.msi",
-  "sha256": "f5ba60fff593ed9c9558cdc5483c18ca24269a47441dedc6bb91a47ad4d02901"
+  "notes": "Optimize textures (smaller sizes and formats, before/after preview, merge a car's YTDs, +hi). All YTDs of a car on one linker page with one-click link and remove.",
+  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.5.0/BLD_YTD_OPTIMIZER-1.5.0-x64.msi",
+  "sha256": "6b0593e427a9d558eb70e2700b5c6b9454b777ed0df7d3c5226939f5d3a3c6f6"
 }
