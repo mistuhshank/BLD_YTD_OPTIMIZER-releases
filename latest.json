@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "url": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/latest",
-  "notes": "Optimize textures (smaller sizes and formats, before/after preview, merge a car's YTDs, +hi). All YTDs of a car on one linker page with one-click link and remove.",
-  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.5.0/BLD_YTD_OPTIMIZER-1.5.0-x64.msi",
-  "sha256": "6b0593e427a9d558eb70e2700b5c6b9454b777ed0df7d3c5226939f5d3a3c6f6"
+  "notes": "Fix livery links (a car's liveries and other YTDs), tick every removable texture in a pack, much faster pack planning, readable selected rows.",
+  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.5.1/BLD_YTD_OPTIMIZER-1.5.1-x64.msi",
+  "sha256": "387021b6c378a58895885bce097cee0e8087a69591f933d616c849a5f311ca81"
 }
