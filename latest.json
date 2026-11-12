@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "url": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/latest",
-  "notes": "Fix livery links (a car's liveries and other YTDs), tick every removable texture in a pack, much faster pack planning, readable selected rows.",
-  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.5.1/BLD_YTD_OPTIMIZER-1.5.1-x64.msi",
-  "sha256": "387021b6c378a58895885bce097cee0e8087a69591f933d616c849a5f311ca81"
+  "notes": "Fix: unticking an already-linked YTD now removes it from the chain without an error. The optimizer shows whole-YTD memory and estimated file size, and keeps .bak2/.bak3 backups.",
+  "installer": "https://github.com/mistuhshank/BLD_YTD_OPTIMIZER-releases/releases/download/v1.5.2/BLD_YTD_OPTIMIZER-1.5.2-x64.msi",
+  "sha256": "701497bae0c38d9b422e7797e78c74db1671f8bc4b3d35e0f32c3271f143f9df"
 }
